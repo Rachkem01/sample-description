@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+div{
+    font-size: medium;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+img{
+    width: 100px;
+    height: 50px;
+}
